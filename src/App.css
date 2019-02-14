@@ -31,3 +31,26 @@
     transform: rotate(360deg);
   }
 }
+body{
+  background-color: rgb(75, 16, 75);
+  color: white;
+
+}
+
+img{
+  border-radius: 14%
+}
+
+
+button{
+ margin: 20px 0;
+ 
+}
+input{
+ text-align: center;
+}
+
+h1{
+  color: white;
+  
+}
